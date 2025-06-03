@@ -12,7 +12,7 @@ namespace CodeFever {
         //% block="rechts"
         Rechts
     }
-    export function blockMetSpoor(powered: boolean) {
+    function blockMetSpoor(powered: boolean) {
         let list = [REDSTONE_BLOCK, POWERED_RAIL, AIR]
         if (!(powered)) {
             list[0] = RED_CONCRETE
