@@ -18,7 +18,7 @@
     ],
     "public": true,
     "targetVersions": {
-        "target": "1.21.10",
+        "target": "2.0.30",
         "targetId": "minecraft"
     },
     "supportedTargets": [
