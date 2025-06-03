@@ -1,5 +1,5 @@
 {
-    "name": "pxt-reeks1missie7",
+    "name": "Nerdland2025",
     "version": "0.0.0",
     "description": "",
     "dependencies": {
@@ -9,14 +9,16 @@
     "files": [
         "README.md",
         "main.blocks",
-        "main.ts"
+        "main.ts",
+        "custom.ts",
+        "t_level1.md"
     ],
     "testFiles": [
         "test.ts"
     ],
     "public": true,
     "targetVersions": {
-        "target": "1.6.30",
+        "target": "1.21.10",
         "targetId": "minecraft"
     },
     "supportedTargets": [
