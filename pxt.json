@@ -11,7 +11,8 @@
         "main.blocks",
         "main.ts",
         "custom.ts",
-        "t_level1.md"
+        "t_level1.md",
+        "t_no_ex.md"
     ],
     "testFiles": [
         "test.ts"
