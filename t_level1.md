@@ -5,6 +5,7 @@
 ```blocks
 player.onChat("level1", function () {
     builder.teleportTo(pos(0, -1, 0))
+    builder.face()
     mobs.give(
     mobs.target(NEAREST_PLAYER),
     MINECART,
